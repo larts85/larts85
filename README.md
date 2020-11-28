@@ -50,6 +50,10 @@ My name is Lianel, and i'm a FullStack Web & Mobile Developer formed in [HENRY A
   }
 ```
 ### Frontend technologies
+LESS, React Js, React-Redux, React Native, Expo...
+
+### Backend technologies
+Node Js, Express, SQL, Sequelize, Firebase', Sqlite, Postgres
 
 ---
 ## MAIN PROJECTS
@@ -65,7 +69,7 @@ Here you are some of my projects:
 
 ### FULLSTACK PROJECTS
 - [Moonbank](https://github.com/Cristovk/Wallet-Native): (Team Project)
-- [Cyber Fitness](http://github.com/larts85/...): (Team Project)
+- [Cyber Fitness](https://github.com/BryanCPineda/Ecommerce-ft05-Group3): (Team Project)
 - [Fitness Shop](http://github.com/larts85/...): (version of Cyber Fitness refactored by only me)
 
 to be continue...
