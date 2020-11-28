@@ -2,7 +2,7 @@
 ## FULLSTACK DEVELOPER IN FORMATION PROCESS
 
 Hi!😊
-My name is Lianel, and i'm a FullStack Web Developer in formation at [HENRY Academy](https://www.soyhenry.com/). 
+My name is Lianel, and i'm a FullStack Web & Mobile Developer formed in [HENRY Academy](https://www.soyhenry.com/). 
 ---
 ## CURRICULUM
 
@@ -17,35 +17,37 @@ My name is Lianel, and i'm a FullStack Web Developer in formation at [HENRY Acad
   let myBrainBlowUpWith = henry;
 
   const henry = {
-      frontendKnowledge: = [],
-      backendKnowledge: = [],
-      realLifeProjects: = []
+    lenguages: {
+      programLenguages: ['javascript', 'JSX'],
+      markupLanguages: ['HTML', 'CSS'],
+    },
+    frontendKnowledge: ['LESS', 'React Js', 'React-Redux', 'React Native', 'expo'],
+    backendKnowledge: ['Node Js', 'express', 'SQL', 'sequelize', 'firebase', 'sqlite', 'postgres'],
   }
-  const HenryBootCamp = (henry, technology) => {      
-      switch (technology.type) {
-          case technologies.FRONTEND:
-              return {
-                  ...henry,
-                  frontendKnowledge: [...frontendKnowledge, technology.payload]
-              }
-          case technologies.BACKEND:
-              return {
-                  ...henry,
-                  backendKnowledge: [...backendKnowledge, technology.payload]
-              }
-          case technologies.REAL_LIFE_PROJECTS:
-              return {
-                  ...henry,
-                  realLifeProjects: [...realLifeProjects, technology.payload]
-              }
-          default:
-              return henry;
-      }
+  const HenryBootCamp = (henry, technologies) => {      
+    switch (technology.type) {
+      case technologies.FRONTEND:
+        return {
+          ...henry,
+          frontendKnowledge: [...frontendKnowledge, technology.payload]
+        }
+      case technologies.BACKEND:
+        return {
+          ...henry,
+          backendKnowledge: [...backendKnowledge, technology.payload]
+        }
+      default:
+        return henry;
+    }
   }
 
   !henry ? ( 'My future would not be that promising :(' ) : "I'm gonna rock the world ^_+";       
 
-  const newTechnologies = [];
+  const imadev2020 = {
+    newTechnologies: [],
+    jobExperience: [],
+    realLifeProjects: []
+  }
 ```
 ### Frontend technologies
 
@@ -62,9 +64,11 @@ Here you are some of my projects:
 - [Project 2](http://github.com/larts85/...): ...
 
 ### FULLSTACK PROJECTS
+- [Moonbank](https://github.com/Cristovk/Wallet-Native): (Team Project)
 - [Cyber Fitness](http://github.com/larts85/...): (Team Project)
 - [Fitness Shop](http://github.com/larts85/...): (version of Cyber Fitness refactored by only me)
-- [Henry Bank](http://github.com/larts85/...): (Team Project)
+
+to be continue...
 ---
 ![Github stats](https://github-readme-stats.vercel.app/api?username=larts85)
 
