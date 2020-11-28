@@ -1,8 +1,12 @@
 # CV LIANEL ARTILES SOTOLONGO
 ## FULLSTACK DEVELOPER IN FORMATION PROCESS
 
-Hi!😊
-My name is Lianel, and i'm a FullStack Web & Mobile Developer formed in [HENRY Academy](https://www.soyhenry.com/). 
+# Hi!😊
+# My name is Lianel, and i'm a FullStack Web & Mobile Developer formed in [HENRY Academy](https://www.soyhenry.com/). 
+
+## PERSONAL SKILLS
+I am self-sacrificing, disciplined and responsible. I love teamwork, I like to improve and always give my best. Kind, empathetic and enthusiastic character.
+Experience in FullStack development of web and mobile applications. Also a specialist in Physical Culture, Sports and Massage therapy. Empirical skills, experience and love of design and sales.
 ---
 ## CURRICULUM
 
