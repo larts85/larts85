@@ -6,6 +6,47 @@ My name is Lianel, and i'm a FullStack Web Developer in formation at [HENRY Acad
 ---
 ## CURRICULUM
 
+```javascript   
+  const myJavaScriptResumee = this;
+  import * as technologies from "IT_World";
+  import { knowhow } from "My_Previus_Studies";
+
+  const myName = 'Lianel';
+  const myLastName = 'Artiles Sotolongo';
+
+  let myBrainBlowUpWith = henry;
+
+  const henry = {
+      frontendKnowledge: = [],
+      backendKnowledge: = [],
+      realLifeProjects: = []
+  }
+  const HenryBootCamp = (henry, technology) => {      
+      switch (technology.type) {
+          case technologies.FRONTEND:
+              return {
+                  ...henry,
+                  frontendKnowledge: [...frontendKnowledge, technology.payload]
+              }
+          case technologies.BACKEND:
+              return {
+                  ...henry,
+                  backendKnowledge: [...backendKnowledge, technology.payload]
+              }
+          case technologies.REAL_LIFE_PROJECTS:
+              return {
+                  ...henry,
+                  realLifeProjects: [...realLifeProjects, technology.payload]
+              }
+          default:
+              return henry;
+      }
+  }
+
+  !henry ? ( 'My future would not be that promising :(' ) : "I'm gonna rock the world ^_+";       
+
+  const newTechnologies = [];
+```
 ### Frontend technologies
 
 ---
