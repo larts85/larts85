@@ -53,31 +53,35 @@ Experience in FullStack development of web and mobile applications. Also a speci
     realLifeProjects: []
   }
 ```
-### Frontend technologies
-LESS, React Js, React-Redux, React Native, Expo...
-
-### Backend technologies
-Node Js, Express, SQL, Sequelize, Firebase', Sqlite, Postgres
-
+### TECHNOLOGIES
+Frontend | Backend
+-------- | --------
+LESS | Node Js
+CSS | Firebase
+React Js | Express
+React-Redux | SQL
+React-Router | Sequelize
+React Native | Sqlite
+Expo | Postgres
+... | ...
 ---
 ## MAIN PROJECTS
 Here you are some of my projects:
 
 ### FRONTEND PROJECTS
-- [Weather App](http://github.com/larts85/...): ...
-- [Movies App](http://github.com/larts85/...): ...
+- [ ] [Weather App](http://github.com/larts85/...): ...
+- [ ] [Movies App](http://github.com/larts85/...): ...
 
 ### BACKEND PROJECTS
-- [Project 1](http://github.com/larts85/...): ...
-- [Project 2](http://github.com/larts85/...): ...
+- [ ] [Project 1](http://github.com/larts85/...): ...
+- [ ] [Project 2](http://github.com/larts85/...): ...
 
 ### FULLSTACK PROJECTS
-- [Moonbank](https://github.com/Cristovk/Wallet-Native): (Team Project)
-- [Cyber Fitness](https://github.com/BryanCPineda/Ecommerce-ft05-Group3): (Team Project)
-- [Fitness Shop](http://github.com/larts85/...): (version of Cyber Fitness refactored by only me)
+- [x] [Moonbank](https://github.com/Cristovk/Wallet-Native): (Team Project)
+- [x] [Ciber Fitness](https://github.com/larts85/Ciber-Fitness): (Team Project)
+- [ ] [Fitness Shop](http://github.com/larts85/...): (version of Cyber Fitness refactored by only me)
 
 to be continue...
 ---
 ![Github stats](https://github-readme-stats.vercel.app/api?username=larts85)
-
 ![Counter](https://enqh38om8k81x14.m.pipedream.net)
