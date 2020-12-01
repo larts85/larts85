@@ -5,7 +5,7 @@
 I am self-sacrificing, disciplined and responsible. I love teamwork, I like to improve and always give my best. Kind, empathetic and enthusiastic character.
 Experience in FullStack development of web and mobile applications. Also a specialist in Physical Culture, Sports and Massage therapy. Empirical skills, experience and love of design and sales.
 ## CURRICULUM
-
+Here you are an extract of my resume, designed with some of my JavaScript knowledge.
 ```javascript   
 /* ==================== myJavaScriptResume ==================== */
 import * as technologies from "IT_World";
