@@ -56,7 +56,7 @@ Experience in FullStack development of web and mobile applications. Also a speci
 ### TECHNOLOGIES
 Frontend | Backend
 -------- | --------
-LESS | Node Js
+LESS | Node Js | 
 CSS | Firebase
 React Js | Express
 React-Redux | SQL
@@ -64,7 +64,6 @@ React-Router | Sequelize
 React Native | Sqlite
 Expo | Postgres
 ... | ...
----
 ## MAIN PROJECTS
 Here you are some of my projects:
 
