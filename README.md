@@ -79,7 +79,7 @@ Here you are some of my projects:
 - [ ] [Project 2](http://github.com/larts85/...): ...
 
 ### FULLSTACK PROJECTS
-- [x] [Moonbank](https://github.com/Cristovk/Wallet-Native): (Team Project)
+- [x] [Moonbank](https://github.com/larts85/Wallet-Native): (Team Project)
 - [x] [Ciber Fitness](https://github.com/larts85/Ciber-Fitness): (Team Project)
 - [ ] [Fitness Shop](http://github.com/larts85/...): (version of Cyber Fitness refactored by only me)
 
