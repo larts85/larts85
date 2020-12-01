@@ -7,47 +7,54 @@ Experience in FullStack development of web and mobile applications. Also a speci
 ## CURRICULUM
 
 ```javascript   
-  const myJavaScriptResumee = this;
-  import * as technologies from "IT_World";
-  import { knowhow } from "My_Previus_Studies";
+/* ==================== myJavaScriptResume ==================== */
+import * as technologies from "IT_World";
+import { knowhow } from "My_Previus_Studies";
 
-  const myName = 'Lianel';
-  const myLastName = 'Artiles Sotolongo';
+const myName = "Lianel";
+const myLastName = "Artiles Sotolongo";
+const myBirthday = new Date(1985, 8-1, 8)
+const henry = {
+  lenguages: {
+    programLenguages: ["JavaScript", "JSX"],
+    markupLanguages: ["HTML", "CSS"],
+  },
+  frontendKnowledge: ["LESS", "React Js", "React-Redux", "React Native", "Expo"],
+  backendKnowledge: ["Node Js", "Express", "SQL", "Sequelize", "Firebase", "SQLite", "Postgres"],
+};
 
-  let myBrainBlowUpWith = henry;
+let myBrainBlowUpWithHenry = henry;
 
-  const henry = {
-    lenguages: {
-      programLenguages: ['javascript', 'JSX'],
-      markupLanguages: ['HTML', 'CSS'],
-    },
-    frontendKnowledge: ['LESS', 'React Js', 'React-Redux', 'React Native', 'expo'],
-    backendKnowledge: ['Node Js', 'express', 'SQL', 'sequelize', 'firebase', 'sqlite', 'postgres'],
+const HenryBootCamp = (henry, technologies) => {
+  switch (technology.type) {
+    case technologies.FRONTEND:
+      return {
+        ...henry,
+        frontendKnowledge: [...frontendKnowledge, technology.payload],
+      };
+    case technologies.BACKEND:
+      return {
+        ...henry,
+        backendKnowledge: [...backendKnowledge, technology.payload],
+      };
+    default:
+      return henry;
   }
-  const HenryBootCamp = (henry, technologies) => {      
-    switch (technology.type) {
-      case technologies.FRONTEND:
-        return {
-          ...henry,
-          frontendKnowledge: [...frontendKnowledge, technology.payload]
-        }
-      case technologies.BACKEND:
-        return {
-          ...henry,
-          backendKnowledge: [...backendKnowledge, technology.payload]
-        }
-      default:
-        return henry;
-    }
-  }
+};
+console.log(HenryBootCamp(henry, technologies));
 
-  !henry ? ( 'My future would not be that promising :(' ) : "I'm gonna rock the world ^_+";       
+!myBrainBlowUpWithHenry ? "My future would not be that promising :(" : "I'm gonna rock the world ^_+";
 
-  const imadev2020 = {
-    newTechnologies: [],
-    jobExperience: [],
-    realLifeProjects: []
-  }
+export const imadev2020 = {
+  name: myName,
+  lastname: myLastName,
+  age: `${new Date().getFullYear() - myBirthday.getFullYear()} Years Old`,
+  prevExp: knowhow,
+  ...henry,
+  newTechnologies: [],
+  jobExperience: [],
+  realLifeProjects: [],
+};
 ```
 ### TECHNOLOGIES
 Frontend | Backend
