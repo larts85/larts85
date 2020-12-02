@@ -87,8 +87,8 @@ Here you are some of my projects:
 
 to be continue...
 ---
-<h3 align="left">Contact me:</h3>
-<a href="https://www.linkedin.com/in/imadev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="imadev" height="30" width="40"></a>
+<p align="left">Contact me: <a href="https://www.linkedin.com/in/imadev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="imadev" height="30" width="40"></a></p>
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=larts85)
 
 ![Counter](https://enqh38om8k81x14.m.pipedream.net)
