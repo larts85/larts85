@@ -1,4 +1,5 @@
 <img src="https://github.com/larts85/larts85/blob/main/images/banner.png" width="100%" />
+
 # CV LIANEL ARTILES SOTOLONGO
 
 ### FULLSTACK DEVELOPER IN FORMATION PROCESS
@@ -7,8 +8,8 @@
 
 ## PERSONAL SKILLS
 
-I am self-sacrificing, disciplined and responsible. I love teamwork, I like to improve and always give my best. Kind, empathetic and enthusiastic character.
-Experience in FullStack development of web and mobile applications. Also a specialist in Physical Culture, Sports and Massage therapy. Empirical skills, experience and love of design and sales.
+My self-sacrificing, disciplined and responsible aptitudes were the main keys to walk through this difficult path of make myself a Developer. Also this tragic pandemic was in my case an opportunity to make true that dream of become a Professional of IT Sciences. I love teamwork and leadership, I like to improve and always give my best. Kind, empathetic and enthusiastic character. Passionate by foreign languages and solve technical problems.
+Experience in FullStack development of web and mobile applications. Also a specialist in Physical Culture, Sports and Massage therapy. Empirical skills, experience and love of design and sales. 
 
 ## CURRICULUM
 
@@ -23,8 +24,8 @@ const myName = "Lianel";
 const myLastName = "Artiles Sotolongo";
 const myBirthday = new Date(1985, 8 - 1, 8);
 const henry = {
-  lenguages: {
-    programLenguages: ["JavaScript", "JSX"],
+  languages: {
+    programLanguages: ["JavaScript", "JSX"],
     markupLanguages: ["HTML", "CSS"],
   },
   frontendKnowledge: ["LESS", "React Js", "React-Redux", "React Native", "Expo"],
