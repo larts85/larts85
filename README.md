@@ -4,7 +4,7 @@
 
 ### FULLSTACK DEVELOPER IN FORMATION PROCESS
 
-#### Hi!😊 My name is Lianel, and i'm a FullStack Web & Mobile Developer formed in [HENRY Academy](https://www.soyhenry.com/).
+#### Hi!😊 My name is Lianel, and i'm a FullStack Web & Mobile Developer formed in [HENRY](https://www.soyhenry.com/) Academy.
 
 ## PERSONAL SKILLS
 
