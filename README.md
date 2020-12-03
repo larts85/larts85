@@ -1,5 +1,4 @@
-![Banner](https://github.com/larts85/larts85/blob/main/images/banner.png)
-
+<img src="https://github.com/larts85/larts85/blob/main/images/banner.png" width="100%" />
 # CV LIANEL ARTILES SOTOLONGO
 
 ### FULLSTACK DEVELOPER IN FORMATION PROCESS
@@ -28,22 +27,8 @@ const henry = {
     programLenguages: ["JavaScript", "JSX"],
     markupLanguages: ["HTML", "CSS"],
   },
-  frontendKnowledge: [
-    "LESS",
-    "React Js",
-    "React-Redux",
-    "React Native",
-    "Expo",
-  ],
-  backendKnowledge: [
-    "Node Js",
-    "Express",
-    "SQL",
-    "Sequelize",
-    "Firebase",
-    "SQLite",
-    "Postgres",
-  ],
+  frontendKnowledge: ["LESS", "React Js", "React-Redux", "React Native", "Expo"],
+  backendKnowledge: ["Node Js", "Express", "SQL", "Sequelize", "Firebase", "SQLite", "Postgres"],
 };
 
 let myBrainBlowUpWithHenry = henry;
