@@ -109,4 +109,6 @@ Here you are some of my projects:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=larts85)
 
+![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=larts85&layout=compact)
+
 ![Counter](https://enqh38om8k81x14.m.pipedream.net)
