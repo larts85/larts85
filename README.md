@@ -1,4 +1,4 @@
-<img src="https://github.com/larts85/larts85/blob/main/images/banner.png" width="100%" />
+<img src="https://github.com/larts85/larts85/blob/main/images/GitHubHeader.png" width="100%" />
 
 # CV LIANEL ARTILES SOTOLONGO
 
