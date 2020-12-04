@@ -107,8 +107,8 @@ Here you are some of my projects:
 
 <p align="left">Contact me: <a href="https://www.linkedin.com/in/imadev/" target="blank"><img align="center" src="https://github.com/larts85/larts85/blob/main/images/linkedin.png" alt="imadev" height="20" width="20"></a></p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=larts85)
+![Github stats](https://github-readme-stats.vercel.app/api?username=larts85&show_icons=true&theme=merko)
 
-![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=larts85&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=larts85&layout=compact&theme=merko)
 
 ![Counter](https://enqh38om8k81x14.m.pipedream.net)
