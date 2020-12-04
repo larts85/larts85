@@ -1,9 +1,5 @@
 <img src="https://github.com/larts85/larts85/blob/main/images/GitHubHeader.png" width="100%" />
 
-# CV LIANEL ARTILES SOTOLONGO
-
-### FULLSTACK DEVELOPER IN FORMATION PROCESS
-
 #### Hi!😊 My name is Lianel, and i'm a FullStack Web & Mobile Developer formed in [HENRY](https://www.soyhenry.com/) Academy.
 
 ## PERSONAL SKILLS
