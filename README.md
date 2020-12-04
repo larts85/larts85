@@ -1,15 +1,11 @@
-![Banner](https://github.com/larts85/larts85/blob/main/images/banner.png)
+<img src="https://github.com/larts85/larts85/blob/main/images/GitHubHeader.png" width="100%" />
 
-# CV LIANEL ARTILES SOTOLONGO
-
-### FULLSTACK DEVELOPER IN FORMATION PROCESS
-
-#### Hi!😊 My name is Lianel, and i'm a FullStack Web & Mobile Developer formed in [HENRY Academy](https://www.soyhenry.com/).
+#### Hi!😊 My name is Lianel, and i'm a FullStack Web & Mobile Developer formed in [HENRY](https://www.soyhenry.com/) Academy.
 
 ## PERSONAL SKILLS
 
-I am self-sacrificing, disciplined and responsible. I love teamwork, I like to improve and always give my best. Kind, empathetic and enthusiastic character.
-Experience in FullStack development of web and mobile applications. Also a specialist in Physical Culture, Sports and Massage therapy. Empirical skills, experience and love of design and sales.
+My self-sacrificing, disciplined and responsible aptitudes were the main keys to walk through this difficult path of make myself a Developer. Also this tragic pandemic was in my case an opportunity to make true that dream of become a Professional of IT Sciences. I love teamwork and leadership, I like to improve and always give my best. Kind, empathetic and enthusiastic character. Passionate by foreign languages and solve technical problems.
+Experience in FullStack development of web and mobile applications. Also a specialist in Physical Culture, Sports and Massage therapy. Empirical skills, experience and love of design and sales. 
 
 ## CURRICULUM
 
@@ -24,26 +20,12 @@ const myName = "Lianel";
 const myLastName = "Artiles Sotolongo";
 const myBirthday = new Date(1985, 8 - 1, 8);
 const henry = {
-  lenguages: {
-    programLenguages: ["JavaScript", "JSX"],
+  languages: {
+    programLanguages: ["JavaScript", "JSX"],
     markupLanguages: ["HTML", "CSS"],
   },
-  frontendKnowledge: [
-    "LESS",
-    "React Js",
-    "React-Redux",
-    "React Native",
-    "Expo",
-  ],
-  backendKnowledge: [
-    "Node Js",
-    "Express",
-    "SQL",
-    "Sequelize",
-    "Firebase",
-    "SQLite",
-    "Postgres",
-  ],
+  frontendKnowledge: ["LESS", "React Js", "React-Redux", "React Native", "Expo"],
+  backendKnowledge: ["Node Js", "Express", "SQL", "Sequelize", "Firebase", "SQLite", "Postgres"],
 };
 
 let myBrainBlowUpWithHenry = henry;
@@ -121,6 +103,8 @@ Here you are some of my projects:
 
 <p style="font-size: 36" align="left">Contact me: <a href="https://www.linkedin.com/in/imadev/" target="blank"><img align="center" src="https://github.com/larts85/larts85/blob/main/images/linkedin.png" alt="imadev" height="20" width="20"></a></p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=larts85)
+![Github stats](https://github-readme-stats.vercel.app/api?username=larts85&show_icons=true&theme=merko)
+
+![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=larts85&layout=compact&theme=merko)
 
 ![Counter](https://enqh38om8k81x14.m.pipedream.net)
