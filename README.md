@@ -109,6 +109,9 @@ Here you are some of my projects:
   <a href="https://twitter.com/imadev2020" target="blank">
     <img align="center" src="https://github.com/larts85/larts85/blob/main/images/twitter-original.svg" alt="imadev" height="20" width="20">
   </a>
+  <a href="mailto:larts85@gmail.com" target="blank">
+    <img align="center" src="https://github.com/larts85/larts85/blob/main/images/Gmail.png" alt="imadev" height="20" width="20">
+  </a>
 </p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=larts85&show_icons=true&theme=merko)
