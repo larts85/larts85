@@ -105,10 +105,10 @@ Here you are some of my projects:
 <p style="font-size: 36" align="left">Contact me: 
   <a href="https://www.linkedin.com/in/imadev/" target="blank">
     <img align="center" src="https://github.com/larts85/larts85/blob/main/images/linkedin.png" alt="imadev" height="20" width="20">
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://twitter.com/imadev2020" target="blank">
     <img align="center" src="https://github.com/larts85/larts85/blob/main/images/twitter-original.svg" alt="imadev" height="20" width="20">
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="mailto:larts85@gmail.com" target="blank">
     <img align="center" src="https://github.com/larts85/larts85/blob/main/images/Gmail.png" alt="imadev" height="20" width="20">
   </a>
