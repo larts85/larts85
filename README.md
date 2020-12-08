@@ -97,11 +97,19 @@ Here you are some of my projects:
 - [x] [Ciber Fitness](https://github.com/larts85/Ciber-Fitness): (Team Project)
 - [ ] [Fitness Shop](http://github.com/larts85/...): (version of Cyber Fitness refactored by only me)
 
+## FullStack Developer Certificate
 ![Henry Certificate](https://github.com/larts85/larts85/blob/main/images/Certificate.png)
 
 ## to be continue...
 
-<p style="font-size: 36" align="left">Contact me: <a href="https://www.linkedin.com/in/imadev/" target="blank"><img align="center" src="https://github.com/larts85/larts85/blob/main/images/linkedin.png" alt="imadev" height="20" width="20"></a></p>
+<p style="font-size: 36" align="left">Contact me: 
+  <a href="https://www.linkedin.com/in/imadev/" target="blank">
+    <img align="center" src="https://github.com/larts85/larts85/blob/main/images/linkedin.png" alt="imadev" height="20" width="20">
+  </a>
+  <a href="https://twitter.com/imadev2020" target="blank">
+    <img align="center" src="https://github.com/larts85/larts85/blob/main/images/twitter-original.svg" alt="imadev" height="20" width="20">
+  </a>
+</p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=larts85&show_icons=true&theme=merko)
 
