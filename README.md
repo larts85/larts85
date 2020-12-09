@@ -7,7 +7,8 @@
 My self-sacrificing, disciplined and responsible aptitudes were the main keys to walk through this difficult path of make myself a Developer. Also this tragic pandemic was in my case an opportunity to make true that dream of become a Professional of IT Sciences. I love teamwork and leadership, I like to improve and always give my best. Kind, empathetic and enthusiastic character. Passionate by foreign languages and solve technical problems.
 Experience in FullStack development of web and mobile applications. Also a specialist in Physical Culture, Sports and Massage therapy. Empirical skills, experience and love of design and sales. 
 
-## CURRICULUM ![Counter](https://enqh38om8k81x14.m.pipedream.net)
+## CURRICULUM [![Counter](https://enqh38om8k81x14.m.pipedream.net)]
+[![Gmail Badge](https://img.shields.io/badge/-larts85@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:larts85@gmail.com "E-mail me")
 
 Here you are an extract of my resume, designed with some of my JavaScript knowledge.
 
@@ -108,7 +109,7 @@ Here you are some of my projects:
 
 #### Contact me:
 [![Gmail Badge](https://img.shields.io/badge/-larts85@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:larts85@gmail.com "E-mail me")
-[![Linkedin Badge](https://img.shields.io/badge/-Lianel%20Artiles-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/imadev "Lets Connect ")
+[![Linkedin Badge](https://img.shields.io/badge/-Lianel%20Artiles-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/imadev "Lets Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/-@imadev2020-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/imadev2020 "Follow me on Twitter")
 [![Github Badge](https://img.shields.io/badge/-@larts85-666666?style=flat&logo=Github&logoColor=white)](https://github.com/larts85 "Follow me on Github 😉")
 
