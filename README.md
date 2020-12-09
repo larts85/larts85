@@ -102,6 +102,18 @@ Here you are some of my projects:
 
 ## to be continue...
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=larts85&show_icons=true&theme=merko)
+
+![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=larts85&layout=compact&theme=merko)
+
+#### Contact me:
+[![Gmail Badge](https://img.shields.io/badge/-larts85@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:larts85@gmail.com "E-mail me")
+[![Linkedin Badge](https://img.shields.io/badge/-Lianel%20Artiles-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/imadev "Lets Connect ")
+[![Twitter Badge](https://img.shields.io/badge/-@imadev2020-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/imadev2020 "Follow me on Twitter")
+[![Github Badge](https://img.shields.io/badge/-@larts85-666666?style=flat&logo=Github&logoColor=white)](https://github.com/larts85 "Follow me on Github 😉")
+
+
+<!--
 <p style="font-size: 36" align="left">Contact me:&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/imadev/" target="blank">
     <img align="center" src="https://github.com/larts85/larts85/blob/main/images/linkedin.png" alt="imadev" height="20" width="20">
@@ -113,8 +125,4 @@ Here you are some of my projects:
     <img align="center" src="https://github.com/larts85/larts85/blob/main/images/Gmail.png" alt="imadev" height="20" width="20">
   </a>
 </p>
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=larts85&show_icons=true&theme=merko)
-
-![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=larts85&layout=compact&theme=merko)
-
+-->
