@@ -66,16 +66,10 @@ export const imadev2020 = {
 
 ### TECHNOLOGIES
 
-| Frontend     | Backend   |
-| ------------ | --------- |
-| LESS         | Node Js   |
-| CSS          | Firebase  |
-| React Js     | Express   |
-| React-Redux  | SQL       |
-| React-Router | Sequelize |
-| React Native | Sqlite    |
-| Expo         | Postgres  |
-| ...          | ...       |
+| **FullStack** | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| --------- | ------ | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| **Frontend** | HTML | LESS | CSS | JSX | React Native | Expo |React Js | React-Redux | React-Routing | 
+| **Backend** | NodeJs |Express | SQL | Mongo | Sequelize |SQLite | Postgres |  Mongoose | Firebase | 
 
 ## MAIN PROJECTS
 
@@ -107,10 +101,10 @@ Here you are some of my projects:
 ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=larts85&layout=compact&theme=merko)
 
 #### Contact me:
-[![Gmail Badge](https://img.shields.io/badge/-larts85@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white)](mailto:larts85@gmail.com "E-mail me")
-[![Linkedin Badge](https://img.shields.io/badge/-Lianel%20Artiles-0072b1?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/imadev "Lets Connect on LinkedIn")
-[![Twitter Badge](https://img.shields.io/badge/-@imadev2020-00acee?style=plastic&logo=Twitter&logoColor=white)](https://twitter.com/imadev2020 "Follow me on Twitter")
-[![Github Badge](https://img.shields.io/badge/-@larts85-666666?style=plastic&logo=Github&logoColor=white)](https://github.com/larts85 "Follow me on Github 😉")
+[![Gmail Badge](https://img.shields.io/badge/-larts85@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:larts85@gmail.com "E-mail me")
+[![Linkedin Badge](https://img.shields.io/badge/-Lianel%20Artiles-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/imadev "Lets Connect on LinkedIn")
+[![Twitter Badge](https://img.shields.io/badge/-@imadev2020-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/imadev2020 "Follow me on Twitter")
+[![Github Badge](https://img.shields.io/badge/-@larts85-666666?style=flat&logo=Github&logoColor=white)](https://github.com/larts85 "Follow me on Github 😉")
 
 
 <!--
