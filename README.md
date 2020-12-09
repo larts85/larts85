@@ -96,9 +96,16 @@ Here you are some of my projects:
 
 ## to be continue...
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=larts85&show_icons=true&theme=merko)
+## Activity
+<p align="left">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larts85&theme=merko" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=larts85&show_icons=true&theme=merko" />
+</p>
 
-![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=larts85&layout=compact&theme=merko)
+<!--
+![Github stats](https://github-readme-stats.vercel.app/api?username=larts85&show_icons=true&theme=merko)
+![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=larts85&theme=merko)
+-->
 
 #### Contact me:
 [![Gmail Badge](https://img.shields.io/badge/-larts85@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:larts85@gmail.com "E-mail me")
