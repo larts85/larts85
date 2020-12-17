@@ -77,6 +77,7 @@ Here you are some of my projects:
 
 ### FRONTEND PROJECTS
 
+- [x] [Portfolio](https://larts85.github.io/lianelartiles/#/)
 - [ ] [Weather App](http://github.com/larts85/...): ...
 - [ ] [Movies App](http://github.com/larts85/...): ...
 
