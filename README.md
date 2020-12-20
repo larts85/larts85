@@ -78,18 +78,23 @@ Here you are some of my projects:
 ### FRONTEND PROJECTS
 
  ✔ [Portfolio](https://larts85.github.io/lianelartiles/#/)
+ 
  🛠 [Weather App](http://github.com/larts85/...): ...
+ 
  🛠 [Movies App](http://github.com/larts85/...): ...
 
 ### BACKEND PROJECTS
 
  ✔ [FreeCodeCamp](https://github.com/larts85/Basic-Node-and-Express-FCC): (Express Js)
+ 
  🛠 [Project 2](http://github.com/larts85/...): ...
 
 ### FULLSTACK PROJECTS
 
  ✔ [Moonbank](https://github.com/larts85/Wallet-Native): (Team Project)
+ 
  ✔ [Ciber Fitness](https://github.com/larts85/Ciber-Fitness): (Team Project)
+ 
  🛠 [Fitness Shop](http://github.com/larts85/...): (version of Cyber Fitness refactored by only me)
 
 ## FullStack Developer Certificate
