@@ -12,14 +12,37 @@ Experience in FullStack development of web and mobile applications. Also a speci
 Here you are an extract of my resume, designed with some of my JavaScript knowledge.
 
 ```javascript
-/* ==================== myJavaScriptResume ==================== */
+/* ============================= myJavaScriptResume ============================= */
 import * as technologies from "IT_World";
 import { knowhow } from "My_Previus_Studies";
 
 const myName = "Lianel";
 const myLastName = "Artiles Sotolongo";
 const myBirthday = new Date(1985, 8 - 1, 8);
-const henry = {
+const henry = { 
+  languages: { programLanguages: [ ], markupLanguages: [ ]  },
+  frontendKnowledge: [ ], 
+  backendKnowledge: [ ] 
+};
+let myBrainBlowUpWithHenry = henry;
+const HenryBootCamp = (henry, technologies) => {
+  switch (technologies.type) {
+    case technologies.FRONTEND:
+      return {
+        ...henry,
+        frontendKnowledge: [...henry.frontendKnowledge, technologies.payload],
+      };
+    case technologies.BACKEND:
+      return {
+        ...henry,
+        backendKnowledge: [...henry.backendKnowledge, technologies.payload],
+      };
+    default:
+      return henry;
+  }
+};
+console.log(HenryBootCamp(henry, technologies));
+{
   languages: {
     programLanguages: ["JavaScript", "JSX"],
     markupLanguages: ["HTML", "CSS"],
@@ -28,37 +51,16 @@ const henry = {
   backendKnowledge: ["Node Js", "Express", "SQL", "Sequelize", "Firebase", "SQLite", "Postgres"],
 };
 
-let myBrainBlowUpWithHenry = henry;
-
-const HenryBootCamp = (henry, technologies) => {
-  switch (technology.type) {
-    case technologies.FRONTEND:
-      return {
-        ...henry,
-        frontendKnowledge: [...frontendKnowledge, technology.payload],
-      };
-    case technologies.BACKEND:
-      return {
-        ...henry,
-        backendKnowledge: [...backendKnowledge, technology.payload],
-      };
-    default:
-      return henry;
-  }
-};
-console.log(HenryBootCamp(henry, technologies));
-
-!myBrainBlowUpWithHenry
-  ? "My future would not be that promising :("
+!myBrainBlowUpWithHenry  ? "My future would not be that promising :("
   : "I'm gonna rock the world ^_+";
 
-export const imadev2020 = {
+export const imadev = {
   name: myName,
   lastname: myLastName,
   age: `${new Date().getFullYear() - myBirthday.getFullYear()} Years Old`,
   prevExp: knowhow,
   ...henry,
-  newTechnologies: [],
+  newTechnologies: ["MongoDB", "Mongoose"],
   jobExperience: [],
   realLifeProjects: [],
 };
