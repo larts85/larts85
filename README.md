@@ -42,6 +42,7 @@ const HenryBootCamp = (henry, technologies) => {
   }
 };
 console.log(HenryBootCamp(henry, technologies));
+/* 
 {
   languages: {
     programLanguages: ["JavaScript", "JSX"],
@@ -49,7 +50,8 @@ console.log(HenryBootCamp(henry, technologies));
   },
   frontendKnowledge: ["LESS", "React Js", "React-Redux", "React Native", "Expo"],
   backendKnowledge: ["Node Js", "Express", "SQL", "Sequelize", "Firebase", "SQLite", "Postgres"],
-};
+}; 
+*/
 
 !myBrainBlowUpWithHenry  ? "My future would not be that promising :("
   : "I'm gonna rock the world ^_+";
