@@ -81,7 +81,7 @@ Here you are some of my projects:
 
 ### FRONTEND PROJECTS
 
- ✔ [Portfolio](https://larts85.github.io/lianelartiles/#/)
+ ✔ [Portfolio](https://larts85.github.io/lianelartiles/#/): Online
 
 ### BACKEND PROJECTS
 
@@ -89,7 +89,7 @@ Here you are some of my projects:
  
 ### FULLSTACK PROJECTS
 
- ✔ [Moonbank](https://github.com/larts85/Wallet-Native): (Team Project)
+ ✔ [Moonbank](https://github.com/larts85/Wallet-Native): (Mobile Team Project)
  
  ✔ [Ciber Fitness](https://github.com/larts85/Ciber-Fitness): (Team Project)
  
