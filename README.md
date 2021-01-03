@@ -81,7 +81,7 @@ Here you are some of my projects:
 
 ### FRONTEND PROJECTS
 
- ✔ <a href="https://larts85.github.io/lianelartiles/#/" tatarget="_blank" rel="noreferrer">Portfolio:</a> Online
+ ✔ [Portfolio](https://larts85.github.io/lianelartiles/#/): Online [(Repo)](https://github.com/larts85/lianelartiles)
  
 ### BACKEND PROJECTS
 
