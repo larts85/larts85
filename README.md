@@ -81,7 +81,9 @@ Here you are some of my projects:
 
 ### FRONTEND PROJECTS
 
- ✔ [Portfolio](https://larts85.github.io/lianelartiles/#/): Online [(Repo)](https://github.com/larts85/lianelartiles)
+ ✔ Porfolio [](https://github.com/larts85/lianelartiles):(Repo)
+ 
+ 🌐 [](https://larts85.github.io/lianelartiles/#/): Online 
  
 ### BACKEND PROJECTS
 
