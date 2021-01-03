@@ -81,8 +81,8 @@ Here you are some of my projects:
 
 ### FRONTEND PROJECTS
 
- ✔ [Portfolio](https://larts85.github.io/lianelartiles/#/): Online
-
+ ✔ <a href="https://larts85.github.io/lianelartiles/#/" tatarget="_blank" rel="noreferrer">Portfolio:</a> Online
+ 
 ### BACKEND PROJECTS
 
  ✔ [FreeCodeCamp](https://github.com/larts85/Basic-Node-and-Express-FCC): (Express Js)
@@ -124,13 +124,13 @@ Here you are some of my projects:
 
 <!--
 <p style="font-size: 36" align="left">Contact me:&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/imadev/" target="blank">
+  <a href="https://www.linkedin.com/in/imadev/" target="_blank" rel="noreferrer">
     <img align="center" src="https://github.com/larts85/larts85/blob/main/images/linkedin.png" alt="imadev" height="20" width="20">
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/imadev2020" target="blank">
+  <a href="https://twitter.com/imadev2020" target="_blank" rel="noreferrer">
     <img align="center" src="https://github.com/larts85/larts85/blob/main/images/twitter-original.svg" alt="imadev" height="20" width="20">
   </a>&nbsp;&nbsp;
-  <a href="mailto:larts85@gmail.com" target="blank">
+  <a href="mailto:larts85@gmail.com" target="_blank" rel="noreferrer">
     <img align="center" src="https://github.com/larts85/larts85/blob/main/images/Gmail.png" alt="imadev" height="20" width="20">
   </a>
 </p>
