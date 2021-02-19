@@ -83,8 +83,12 @@ Here you are some of my projects:
 
  ✔ [Porfolio:](https://github.com/larts85/lianelartiles) (Repo) 🌐 [Online](https://larts85.github.io/lianelartiles/#/): (Hosted)
  
+ ✔ [Argenclima](https://argenclima2020.web.app/#/): (React, Styled-Components) (External APIs consumed: *Openweather*, *Wikipedia*)
+ 
 ### BACKEND PROJECTS
 
+ ✔ [LA-Motors](https://github.com/larts85/LA-Motors): (Node Js) (Job application exercise)
+ 
  ✔ [FreeCodeCamp](https://github.com/larts85/Basic-Node-and-Express-FCC): (Express Js)
  
 ### FULLSTACK PROJECTS
@@ -94,8 +98,6 @@ Here you are some of my projects:
  ✔ [Ciber Fitness](https://github.com/larts85/Ciber-Fitness): (Team Project)
  
  🛠 [Fitness Shop](http://github.com/larts85/...): (version of Cyber Fitness refactored by only me)
- 
- 🛠 [Weather App](http://github.com/larts85/...): ...
  
  🛠 [Movies App](http://github.com/larts85/...): ...
 
