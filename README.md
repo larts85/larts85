@@ -64,7 +64,6 @@ export const imadev = {
   ...henry,
   newTechnologies: ["MongoDB", "Mongoose", "Styled-Components", "Material UI"],
   jobExperience: ["REVAI"],
-  realLifeProjects: [],
 };
 ```
 
