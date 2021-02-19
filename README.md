@@ -62,8 +62,8 @@ export const imadev = {
   age: `${new Date().getFullYear() - myBirthday.getFullYear()} Years Old`,
   prevExp: knowhow,
   ...henry,
-  newTechnologies: ["MongoDB", "Mongoose"],
-  jobExperience: [],
+  newTechnologies: ["MongoDB", "Mongoose", "Styled-Components", "Material UI"],
+  jobExperience: ["REVAI"],
   realLifeProjects: [],
 };
 ```
@@ -72,8 +72,8 @@ export const imadev = {
 
 | **FullStack** | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | --------- | ------ | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
-| **Frontend** | HTML | LESS | CSS | JSX | React Native | Expo |React Js | React-Redux | React-Routing | 
-| **Backend** | NodeJs |Express | SQL | Mongo | Sequelize |SQLite | Postgres |  Mongoose | Firebase | 
+| **Frontend** | HTML | LESS | CSS | React Native | React Js | React-Redux | React-Routing | Styled-Components | Material UI |
+| **Backend** | NodeJs |Express | SQL | Mongo | Sequelize |SQLite | Postgres |  Mongoose | Firebase |
 
 ## MAIN PROJECTS
 
@@ -81,7 +81,7 @@ Here you are some of my projects:
 
 ### FRONTEND PROJECTS
 
- ✔ [Porfolio:](https://github.com/larts85/lianelartiles) (Repo) 🌐 [Online](https://larts85.github.io/lianelartiles/#/): (Hosted)
+ ✔ [Porfolio:](https://larts85.github.io/lianelartiles/#/) [Repository](https://github.com/larts85/lianelartiles)
  
  ✔ [Argenclima](https://argenclima2020.web.app/#/): (React, Styled-Components) (External APIs consumed: *Openweather*, *Wikipedia*)
  
