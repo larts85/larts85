@@ -56,15 +56,17 @@ console.log(HenryBootCamp(henry, technologies));
 !myBrainBlowUpWithHenry  ? "My future would not be that promising :("
   : "I'm gonna rock the world ^_+";
 
+const tlbm = "technologies learned by myself";
+
 export const imadev = {
   name: myName,
   lastname: myLastName,
   age: `${new Date().getFullYear() - myBirthday.getFullYear()} Years Old`,
   prevExp: knowhow,
   ...henry,
-  newTechnologies: ["MongoDB", "Mongoose", "Styled-Components", "Material UI"],
-  jobExperience: ["REVAI"],
+  jobExperience: [{company: "REVAI", position: "FullStack Developer", since: "Jan 2020"}],
 };
+imadev[tlbm] = ["MongoDB", "Mongoose", "Styled-Components", "Material UI"];
 ```
 
 ### TECHNOLOGIES
@@ -80,7 +82,7 @@ Here you are some of my projects:
 
 ### FRONTEND PROJECTS
 
- ✔ [Porfolio:](https://larts85.github.io/lianelartiles/#/) [Repository](https://github.com/larts85/lianelartiles)
+ ✔ [Porfolio:](https://larts85.github.io/lianelartiles/#/): (Hosted with GH Pages)    [Repository](https://github.com/larts85/lianelartiles)
  
  ✔ [Argenclima](https://argenclima2020.web.app/#/): (React, Styled-Components) (External APIs consumed: *Openweather*, *Wikipedia*)
  
