@@ -82,9 +82,9 @@ Here you are some of my projects:
 
 ### FRONTEND PROJECTS
 
- ✔ [Porfolio:](https://larts85.github.io/lianelartiles/#/): (Hosted with GH Pages)    [Repository](https://github.com/larts85/lianelartiles)
+ ✔ [Porfolio:](https://larts85.github.io/lianelartiles/#/): (Hosted with GH Pages) [Repository](https://github.com/larts85/lianelartiles)
  
- ✔ [Argenclima](https://argenclima2020.web.app/#/): (React, Styled-Components) (External APIs consumed: *Openweather*, *Wikipedia*)
+ ✔ [Argenclima](https://argenclima2020.web.app/#/): (Hosted with Firebase)(React, Styled-Components) (External APIs consumed: *Openweather*, *Wikipedia*) [Repository](https://github.com/larts85/argenclima)
  
 ### BACKEND PROJECTS
 
