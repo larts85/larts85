@@ -98,7 +98,7 @@ Here you are some of my projects:
  
  ✔ [Ciber Fitness](https://github.com/larts85/Ciber-Fitness): (Team Project)
  
- 🛠 [Fitness Shop](http://github.com/larts85/...): (version of Cyber Fitness refactored by only me)
+ ✔ [Fitness Shop](http://github.com/larts85/Fitness-Shop): (Version of Cyber Fitness refactored by me)
  
  🛠 [Movies App](http://github.com/larts85/...): ...
 
