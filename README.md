@@ -66,13 +66,14 @@ export const imadev = {
   ...henry,
   jobExperience: [{company: "REVAI", position: "FullStack Developer", since: "Jan 2021"}],
 };
-imadev[tlbm] = ["MongoDB", "Mongoose", "Styled-Components", "Material UI"];
+imadev[tlbm] = ["MongoDB", "Mongoose", "Styled-Components", "Material UI", "TypeScript", "Formik"];
 ```
 
 ### TECHNOLOGIES
 
 | **FullStack** | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | --------- | ------ | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| **Languages** | JavaScript | TypeScript | | | | | | | |
 | **Frontend** | HTML | LESS | CSS | React Native | React Js | React-Redux | React-Routing | Styled-Components | Material UI |
 | **Backend** | NodeJs |Express | SQL | Mongo | Sequelize |SQLite | Postgres |  Mongoose | Firebase |
 
