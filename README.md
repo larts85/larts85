@@ -81,11 +81,11 @@ imadev[tlbm] = [
 
 ### TECHNOLOGIES
 
-| **FullStack** | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
-| --------- | ------ | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
-| **Languages** | JavaScript | TypeScript | | | | | | | | |
-| **Frontend** | HTML | CSS | React Native | React Js | React-Redux | React-Routing | Next.Js | Styled-Components | Material UI | Figma |
-| **Backend** | NodeJs |Express | SQL | Mongo | Sequelize |SQLite | Postgres |  Mongoose | Firebase | GraphQL |
+| **FullStack** | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| --------- | ------ | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |  ------- |
+| **Languages** | JavaScript | TypeScript | | | | | | | | | | |
+| **Frontend** | HTML | CSS | React Native | React Js | React-Redux | React-Routing | Next.Js | Styled-Components | Material UI | Figma | Tailwind CSS | EJS |
+| **Backend** | NodeJs |Express | SQL | Mongo | Sequelize |SQLite | Postgres |  Mongoose | Firebase | GraphQL | Contentful | MySQL |
 
 ## MAIN PROJECTS
 
