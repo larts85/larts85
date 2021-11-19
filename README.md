@@ -5,7 +5,7 @@
 ## PERSONAL SKILLS
 
 My self-sacrificing, disciplined and responsible aptitudes were the main keys to walk through this difficult path of make myself a Developer. Also this tragic pandemic was in my case an opportunity to make true that dream of become a Professional of IT Sciences. I love teamwork and leadership, I like to improve and always give my best. Kind, empathetic and enthusiastic character. Passionate by foreign languages and solve technical problems.
-Experience in FullStack development of web and mobile applications. Also a specialist in Physical Culture, Sports and Massage therapy. Empirical skills, experience and love of design and sales. 
+Experience in FullStack development of web and mobile applications. Also a specialist in Physical Culture, Sports and Massage therapy. Empirical skills, sales experience and much more when meeting me 😉.
 
 ## CURRICULUM ![](https://enqh38om8k81x14.m.pipedream.net)
 
