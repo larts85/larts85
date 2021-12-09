@@ -69,7 +69,6 @@ export const imadev = {
   ...henry,
   jobExperience: [
     { company: "REVAI", position: "FullStack Developer" },
-    { company: "Sancrisoft", position: "FullStack Developer" },
   ]
 };
  
